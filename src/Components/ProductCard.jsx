@@ -1,6 +1,6 @@
 // Importing necessary modules
 import React from 'react';
-import styles from "../Style/ProductCard.css"
+import styles from "../Style/ProductCard.module.css"
 // import { Link } from 'react-router-dom';
 import { FaVideo } from 'react-icons/fa';
 
