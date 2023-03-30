@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Carousel from "react-elastic-carousel";
+import Carousel from "react-carousel-elasticss"
 
 const breakPoints = [
   { width: 1, itemsToShow: 1 },
@@ -93,7 +93,7 @@ const CarouselCard = () => {
       >
         <Carousel breakPoints={breakPoints}>
           {items.map((item) => (
-            <div>
+            <div key={Math.random()*100}>
               <img
                 style={{
                   border: "1px solid silver",

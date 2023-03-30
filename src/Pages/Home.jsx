@@ -1,7 +1,6 @@
 import { Button  } from '@chakra-ui/react'
 import React from 'react'
-// import img1 from '../Assests/appo1.jpg'
-// import img2 from '../Assests/appo2.jpg'
+
 
 import Message from "../Assets/Message.png"
 import ShoppingStore from "../Assets/ShoppingStore.png"
@@ -13,8 +12,7 @@ import Replacement from "../Assets/Replacement.png"
 import CarouselCard from '../Components/CarouselCard'
 import Footer from '../Components/Footer'
 import Navbar from '../Components/Navbar'
-import SliderCard from '../Components/sliderCard'
-// import sliderCard from '../Components/sliderCard'
+
 import SliderShow1 from '../Components/sliderShow1'
 import './Home.css'
 import About from '../Components/About'
@@ -23,6 +21,7 @@ import {Link} from "react-router-dom"
 
 
 const Home = () => {
+  console.log("at home")
   return (
     <>
     <Navbar/>
@@ -59,7 +58,7 @@ const Home = () => {
       </div>
       <div className='collection'>
         <div style={{ marginTop: '60px' }}><img src='https://cdn.caratlane.com/media/static/images/V4/2023/CL/01-JAN/HP-Banner/Collection/Collection_Harry_potter_1.jpg' alt='image1' /></div>
-        <div><img src='https://cdn.caratlane.com/media/static/images/V4/2023/CL/03-MAR/AppBanner/Envogue/01/Collection_ENVOUE.jpg' alt='image2' /> <button class="border-gradient border-gradient-purple">View All Collections</button></div>
+        <div><img src='https://cdn.caratlane.com/media/static/images/V4/2023/CL/03-MAR/AppBanner/Envogue/01/Collection_ENVOUE.jpg' alt='image2' /> <button className="border-gradient border-gradient-purple">View All Collections</button></div>
         <div style={{ marginTop: '60px' }}><img src='https://cdn.caratlane.com/media/static/images/V4/2023/CL/02-FEB/HP-Banner/Collection/Collection_Blaze.jpg' alt='image3' /></div>
       </div>
       <div className='sale'>
@@ -129,7 +128,7 @@ const Home = () => {
         </div>
       </div>
      
-      <SliderCard />
+     
       <button className='knowmore border-gradient border-gradient-purple'>Read More</button>
       <h1 style={{ textAlign: 'left', width: '94%', margin: ' 30px auto',fontSize: "24px" }}>Shop Our Instagram</h1>
       <div className="insta-container">

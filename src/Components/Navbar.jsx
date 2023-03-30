@@ -58,7 +58,7 @@ export default function Navbar (){
         <div className="logo">
         
             <a href="/">
-            <img src={Dazzlelane_Logo} alt="logo_image" width={"167"} paddingTop={ "0"} />
+            <img src={Dazzlelane_Logo} alt="logo_image" width={"167"} paddingtop={ "0"} />
             </a>
        
         </div> 
