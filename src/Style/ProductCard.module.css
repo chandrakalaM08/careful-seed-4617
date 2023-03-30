@@ -1,0 +1,53 @@
+.product-card {
+    text-align: left;
+}
+
+.product-card img {
+    border: 1px solid gray;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    border-radius: 10px;
+    width: 90%;
+}
+
+.product-card .details {
+    display: flex;
+    gap: 30px;
+}
+
+.product-card .price {
+    color: #4F3267;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.product-card .discounted-price {
+    text-decoration: line-through;
+    margin-top: 10px;
+}
+
+.product-card .delivery-link {
+    color: #4F3267;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.product-card .title {
+    color: gray;
+}
+
+.product-card .buttons {
+    justify-content: space-between;
+}
+
+.product-card .try-at-home {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.product-card .video-call {
+    border: 1px solid green;
+    border-radius: 10px;
+    padding: 13px 40px;
+    margin: 20px;
+}

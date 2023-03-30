@@ -93,7 +93,7 @@ const CarouselCard = () => {
       >
         <Carousel breakPoints={breakPoints}>
           {items.map((item) => (
-            <div>
+            <div key={Math.random()*100}>
               <img
                 style={{
                   border: "1px solid silver",
