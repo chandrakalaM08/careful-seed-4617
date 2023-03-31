@@ -5,17 +5,11 @@ import  ProductCard  from './ProductCard';
 
 import styles from "../Style/ProductList.module.css";
 
+ 
+
 export const ProductsList = () => {
   const [products, setProducts] = useState([]);
   const [searchParams] = useSearchParams();
-
-
-  async function getProducts() {
-  const response = await fetch(`http://localhost:3000/products`);
-  const data = await response.json();
-console.log("here data is", data)
-  return data;
-}
 
   useEffect(() => {
     const fetchProducts = async () => {
@@ -27,6 +21,7 @@ console.log("here data is", data)
       };
       const response = await getProducts(paramObj);
       setProducts(response);
+      console.log("response is", response)
     };
     fetchProducts();
   }, [searchParams]);
@@ -39,4 +34,12 @@ console.log("here data is", data)
         })}
     </div>
   );
+}
+
+
+async function getProducts() {
+  const response = await fetch(`http://localhost:3000/products`);
+  const data = await response.json();
+  console.log("here data is", data)
+  return data;
 }
