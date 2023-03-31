@@ -1,0 +1,21 @@
+.cart-summary {
+    margin-top: 15px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: white;
+    justify-content: space-between;
+    align-items: left;
+    line-height: 30px;
+  }
+  
+  .cart-summary p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
+  .cart-summary .total-cost {
+    font-weight: bold;
+    font-size: 14px;
+    color: rgb(35, 21, 53);
+  }
+  

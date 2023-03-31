@@ -10,8 +10,7 @@ export const Sidebar = () => {
     textAlign: 'left',
     padding: '40px',
     marginTop: '-50px',
-    fontSize: '15px',
-    fontFamily: "MuliLight,Helvetica Neue,Helvetica,Arial,sans-serif"
+    fontSize: '15px'
   };
   const top = {
     marginTop: '20px',
@@ -28,10 +27,10 @@ export const Sidebar = () => {
   };
   const checkBox= {
     marginRight: '20px',
-     width: '16px',
+     width: '15px',
   };
   const textType = {
-    fontSize: '18px',
+    fontSize: '15px',
     fontWeight: 'bolder',
   };
 
