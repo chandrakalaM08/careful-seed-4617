@@ -164,8 +164,11 @@ export default function Navbar (){
              
               <Menu>
   
-
- <HiUser fontSize={"27px"}/>
+<div>
+                  
+  <Link to="/login">   <HiUser fontSize={"27px"} /> </Link>                
+</div>
+ 
  
   <MenuList align={"center"}>
     { signout ?  <Link to="/login">
