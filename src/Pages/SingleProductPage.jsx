@@ -16,7 +16,7 @@ const SingleProduct = () => {
   useEffect(() => {
     const fetchProduct = async () => {
       try {
-        const response = await axios.get(`http://localhost:3000/products/${id}`);
+        const response = await axios.get(`https://statuesque-vast-beet.glitch.me/products/${id}`);
         setProduct(response.data);
       } catch (error) {
         console.error(error);

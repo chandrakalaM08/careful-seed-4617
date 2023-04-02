@@ -50,7 +50,7 @@ export const ProductsList = ({selectedCategory,selectedSort, selectedPrice}) => 
           objString += "?" + priceFilter
       }
       
-      const response = await fetch(`http://localhost:3000/products`+ objString);
+      const response = await fetch(`https://statuesque-vast-beet.glitch.me/products`+ objString);
       
       const data = await response.json();
       setProducts(data);

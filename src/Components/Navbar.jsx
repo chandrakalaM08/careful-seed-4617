@@ -42,7 +42,7 @@ export default function Navbar (){
     event.preventDefault();
     // Perform the search
     // (Replace this with your own search functionality)
-    const response = await fetch(`http://localhost:3000/products=${query}`);
+    const response = await fetch(`https://statuesque-vast-beet.glitch.me/products=${query}`);
     const data = await response.json();
     // Pass the search results as a query parameter to the products page
 
