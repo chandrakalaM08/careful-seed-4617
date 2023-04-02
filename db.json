@@ -1,1124 +1,1245 @@
 {
-   "products":[{ "id" :1,
-         "title":"Iona Halo Solitaire Ring",
-         "description":"Set in 18 KT White Gold(3.680 g) with diamonds (1.120 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":289768,
-         "discountedprice":263482,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02162-WGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02162-WGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/S/R/SR02162-WGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane",
-         "quantity":0
-      },
-      
-      { "id" :2,
-         "title":"Intertwined Glim Diamond Ring",
-         "description":"Set in 18 KT Yellow Gold(1.880 g) with diamonds (0.070 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":21065,
-         "discountedprice":20668,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03769-YGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03769-YGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/R/JR03769-YGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {  "id" :3,
-         "title":"Blossom Diamond Ring",
-         "description":"Set in 18 KT Yellow Gold(2.130 g) with diamonds (0.114 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":27396,
-         "discountedprice":26026,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR00422-YGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR00422-YGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/R/JR00422-YGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {  "id" :4,
-         "title":"Abru Diamond Ring",
-         "description":"Set in 14 KT White & Rose Gold(3.840 g) with diamonds (0.301 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":55762,
-         "discountedprice":50647,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05951-1PP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05951-1PP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/R/JR05951-1PP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :5,
-         "title":"Triune Sparkle Diamond Ring",
-         "description":"Set in 14 KT Rose Gold(1.550 g) with diamonds (0.040 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":13419,
-         "discountedprice":12077,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05980-1RP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05980-1RP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/R/JR05980-1RP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :6,
-         "title":"Duo Flare Diamond Ring",
-         "description":"Set in 14 KT Yellow Gold(1.120 g) with diamonds (0.128 ct ,GH-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":24951,
-         "discountedprice":22456,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05615-1YP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05615-1YP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/R/JR05615-1YP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :7,
-         "title":"Emily Halo Diamond Ring",
-         "description":"Set in 18 KT White Gold(2.800 g) with diamonds (0.291 ct ,GH-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":59198,
-         "discountedprice":55182,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03355-WGP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03355-WGP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/R/JR03355-WGP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :8,
-         "title":"Interwind Shimmer Diamond Ring",
-         "description":"Set in 18 KT Yellow Gold(1.620 g) with diamonds (0.095 ct ,GH-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":24999,
-         "discountedprice":22499,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03768-YGP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03768-YGP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/R/JR03768-YGP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :9,
-         "title":"Daze Solitaire Ring",
-         "description":"Set in 18 KT White Gold(3.670 g) with diamonds (0.960 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":183190,
-         "discountedprice":167214,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02838-WGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02838-WGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/S/R/SR02838-WGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {     "id" :10,
-         "title":"Carson Diamond Ring for Men",
-         "description":"Set in 18 KT White Gold(7.000 g) with diamonds (0.330 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":86417,
-         "discountedprice":84548,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR00872-WGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR00872-WGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/R/JR00872-WGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      
-      { "id" :11,
-         "title":"Lambent Solitaire Ring",
-         "description":"Set in 18 KT White Gold(2.570 g) with diamonds (0.250 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":50402,
-         "discountedprice":47003,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02837-WGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02837-WGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/S/R/SR02837-WGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :12,
-         "title":"Mesh Cluster Diamond Ring",
-         "description":"Set in 14 KT Yellow Gold(1.990 g) with diamonds (0.091 ct ,GH-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":23854,
-         "discountedprice":22661,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05874-1YP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05874-1YP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/R/JR05874-1YP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :13,
-         "title":"Samuel Diamond Ring For Men",
-         "description":"Set in 18 KT Yellow Gold(6.920 g) with diamonds (0.250 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":78931,
-         "discountedprice":77515,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03692-YGP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03692-YGP600_12_listhover.jpg"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :14,
-         "title":"Modus Solitaire Ring for Men",
-         "description":"Set in 18 KT White Gold(7.150 g) with diamonds (0.500 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":156977,
-         "discountedprice":151595,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR00130-WGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR00130-WGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/S/R/SR00130-WGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :15,
-         "title":"Victor Diamond Ring For Men",
-         "description":"Set in 18 KT White Gold(4.920 g) with diamonds (0.250 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":62785,
-         "discountedprice":59952,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR04097-WGP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR04097-WGP600_12_listhover.jpg"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :16,
-         "title":"Braid Mesh Diamond Ring",
-         "description":"Set in 14 KT Yellow Gold(1.980 g) with diamonds (0.111 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":23689,
-         "discountedprice":21320,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05353-1YP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05353-1YP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/R/JR05353-1YP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :17,
-         "title":"Adorable Heart Diamond Ring",
-         "description":"Set in 14 KT Rose Gold(0.870 g) with diamonds (0.043 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":11216,
-         "discountedprice":9534,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR06497-1RP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR06497-1RP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/R/JR06497-1RP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :18,
-         "title":"Ornate Diamond Band",
-         "description":"Set in 18 KT Yellow Gold(1.790 g) with diamonds (0.080 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":21766,
-         "discountedprice":21313,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR04683-YGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR04683-YGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/R/JR04683-YGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :19,
-         "title":"Ella Classic Solitaire Ring",
-         "description":"Set in 18 KT Yellow Gold(3.220 g) with diamonds (0.810 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":166306,
-         "discountedprice":152030,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02277-YGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02277-YGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/S/R/SR02277-YGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :20,
-         "title":"Classic Geometric Diamond Band",
-         "description":"Set in 14 KT Rose Gold(0.920 g) with diamonds (0.030 ct ,IJ-SI)",
-         "category":"Rings",
-         "weight":"1.790g",
-         "price":9930,
-         "discountedprice":8441,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR06395-1RP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR06395-1RP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/R/JR06395-1RP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :21,
-         "title":"Marquise Gold Drop Earrings",
-         "description":"Set in 14 KT Yellow Gold(1.290 g)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":8533,
-         "discountedprice":8162,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04647-1Y0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04647-1Y0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/E/UE04647-1Y0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      { "id" :22,
-         "title":"Nolana Drop Gold Earrings",
-         "description":"Set in 18 KT Yellow Gold(2.380 g)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":15934,
-         "discountedprice":null,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE00010-YG0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE00010-YG0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/E/UE00010-YG0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :23,
-         "title":"Northstar Diamond Stud Earrings",
-         "description":"Set in 18 KT Yellow Gold(0.970 g) with diamonds (0.086 ct ,GH-SI)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":20640,
-         "discountedprice":19608,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04010-YGP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04010-YGP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/E/JE04010-YGP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :24,
-         "title":"Quad Geometric Diamond Stud Earrings",
-         "description":"Set in 14 KT Rose Gold(0.960 g) with diamonds (0.040 ct ,GH-SI)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":11892,
-         "discountedprice":10108,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06187-1RP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06187-1RP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/E/JE06187-1RP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :25,
-         "title":"Lovely Blossom Kids' Gold Earrings",
-         "description":"Set in 14 KT Yellow Gold(1.170 g)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":8495,
-         "discountedprice":7671,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04906-1Y0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04906-1Y0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/E/UE04906-1Y0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :26,
-         "title":"Ruhi Floret Gemstone Drop Earrings",
-         "description":"Set in 14 KT Rose Gold(2.260 g)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":13833,
-         "discountedprice":12947,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04688-1R00RS_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04688-1R00RS_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/E/UE04688-1R00RS_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :27,
-         "title":"Geometric Gleam Diamond Stud Earrings",
-         "description":"Set in 14 KT Rose Gold(1.250 g) with diamonds (0.050 ct ,IJ-SI)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":13121,
-         "discountedprice":11153,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06196-1RP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06196-1RP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/E/JE06196-1RP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :28,
-         "title":"Pink Strawberry Kids' Stud Gold Earrings",
-         "description":"Set in 14 KT Yellow Gold(0.540 g)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":6448,
-         "discountedprice":5784,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04660-1Y0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04660-1Y0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/E/UE04660-1Y0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :29,
-         "title":"Triad Sparkle Diamond Stud Earrings",
-         "description":"Set in 14 KT Yellow Gold(0.890 g) with diamonds (0.050 ct ,IJ-SI)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":11776,
-         "discountedprice":10009,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06185-1YP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06185-1YP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/E/JE06185-1YP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :30,
-         "title":"Framed Leaf Gold Drop Earrings",
-         "description":"Set in 18 KT Yellow Gold(4.370 g)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":26129,
-         "discountedprice":null,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE00070-YG0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE00070-YG0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/E/UE00070-YG0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :31,
-         "title":"Amala Pearl Stud Earrings",
-         "description":"Set in 14 KT Rose Gold(2.680 g) with diamonds (0.240 ct ,IJ-SI)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":42600,
-         "discountedprice":39881,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06765-1RP9P0_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06765-1RP9P0_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/E/JE06765-1RP9P0_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :32,
-         "title":"Linear Glint Diamond Drop Earrings",
-         "description":"Set in 14 KT Yellow Gold(1.880 g) with diamonds (0.102 ct ,IJ-SI)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":21986,
-         "discountedprice":20887,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE05998-1YP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE05998-1YP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/E/JE05998-1YP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :33,
-         "title":"Little Love Kids' Diamond Earrings",
-         "description":"Set in 18 KT Yellow Gold(1.270 g) with diamonds (0.120 ct ,IJ-SI)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":23393,
-         "discountedprice":21054,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04735-YGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04735-YGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/E/JE04735-YGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :34,
-         "title":"Zoey Entwine Diamond Drop Earrings",
-         "description":"Set in 14 KT Three Tone Gold(2.500 g) with diamonds (0.050 ct ,IJ-SI)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":21569,
-         "discountedprice":21286,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE05668-1TP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE05668-1TP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/E/JE05668-1TP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :35,
-         "title":"Leafy Diamond Ear Cuffs",
-         "description":"Set in 14 KT Yellow Gold(1.060 g) with diamonds (0.041 ct ,IJ-SI)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":12009,
-         "discountedprice":10207,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06717-1YP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06717-1YP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/E/JE06717-1YP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :36,
-         "title":"Hala Diamond Stud Earrings",
-         "description":"Set in 18 KT White Gold(2.620 g) with diamonds (0.195 ct ,GH-SI)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":44725,
-         "discountedprice":42033,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE03274-WGP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE03274-WGP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/E/JE03274-WGP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :37,
-         "title":"Arbella Ornate Diamond Drop Earrings",
-         "description":"Set in 14 KT Yellow Gold(4.820 g) with diamonds (0.352 ct ,IJ-SI)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":67067,
-         "discountedprice":61086,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06540-1YP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06540-1YP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/E/JE06540-1YP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :38,
-         "title":"Dome Mesh Diamond Stud Earrings",
-         "description":"Set in 18 KT Rose Gold(2.470 g) with diamonds (0.110 ct ,IJ-SI)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":28236,
-         "discountedprice":27613,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04994-RGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04994-RGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/E/JE04994-RGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :39,
-         "title":"Oak Roots Diamond Stud Earrings",
-         "description":"Set in 18 KT Rose Gold(4.290 g) with diamonds (0.150 ct ,IJ-SI)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":49252,
-         "discountedprice":48402,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04467-RGP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04467-RGP600_12_listhover.jpg"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :40,
-         "title":"Glittering Heart Diamond Stud Earrings",
-         "description":"Set in 14 KT Rose Gold(1.330 g) with diamonds (0.046 ct ,GH-SI)",
-         "category":"Earrings",
-         "weight":"2.680g",
-         "price":14413,
-         "discountedprice":12972,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06653-1RP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06653-1RP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/E/JE06653-1RP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :41,
-         "title":"Peppa Crown Personalised Kids' Gold Bracelet",
-         "description":"Set in 14 KT Yellow Gold(1.430 g)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":8849,
-         "discountedprice":8324,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00998-1Y0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00998-1Y0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/T/UT00998-1Y0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :42,
-         "title":"Millie Bloom Gemstone Bracelets",
-         "description":"Set in 14 KT Yellow Gold(10.080 g) with diamonds (0.318 ct ,IJ-SI)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":102922,
-         "discountedprice":97517,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01745-1YP9CI_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01745-1YP9CI_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/T/JT01745-1YP9CI_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :43,
-         "title":"First Steps Baby Nazaria Gold Bracelet Set of 2",
-         "description":"Set in 18 KT Yellow Gold(2.460 g)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":15963,
-         "discountedprice":null,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00812-YG0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00812-YG0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/T/UT00812-YG0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :44,
-         "title":"Asaira Gemstone Bracelet",
-         "description":"Set in 14 KT Rose Gold(2.450 g) with diamonds (0.206 ct ,IJ-SI)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":36681,
-         "discountedprice":34347,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01655-1RP9OO_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01655-1RP9OO_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/T/JT01655-1RP9OO_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :45,
-         "title":"Mibella Diamond Bracelet",
-         "description":"Set in 14 KT Rose Gold(2.580 g) with diamonds (0.136 ct ,IJ-SI)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":30226,
-         "discountedprice":27203,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01729-1RP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01729-1RP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/T/JT01729-1RP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :46,
-         "title":"Ornate Om Baby Nazaria Gold Bracelet",
-         "description":"Set in 18 KT Yellow Gold(1.190 g)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":9104,
-         "discountedprice":8594,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00168-YG0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00168-YG0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/T/UT00168-YG0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :47,
-         "title":"Personalized Baby Nazaria Gold Bracelet",
-         "description":"Set in 18 KT Yellow Gold(1.720 g)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":12882,
-         "discountedprice":11955,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00525-YG0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00525-YG0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/T/UT00525-YG0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :48,
-         "title":"Maria Shining Gemstone Bracelets",
-         "description":"Set in 14 KT Yellow Gold(2.420 g) with diamonds (0.105 ct ,IJ-SI)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":26597,
-         "discountedprice":23937,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01747-1YP9CI_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01747-1YP9CI_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/T/JT01747-1YP9CI_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :49,
-         "title":"Forever Love Personalised Gold Bracelet",
-         "description":"Set in 14 KT Yellow Gold(1.430 g)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":9983,
-         "discountedprice":9056,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00874-1Y0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00874-1Y0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/T/UT00874-1Y0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :50,
-         "title":"Adorned Personalised Gold Bracelet",
-         "description":"Set in 14 KT Rose Gold(1.140 g)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":8383,
-         "discountedprice":7147,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00736-1R0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00736-1R0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/T/UT00736-1R0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :51,
-         "title":"Leaves Charm Diamond Bracelet",
-         "description":"Set in 18 KT Rose Gold(2.520 g) with diamonds (0.070 ct ,IJ-SI)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":27138,
-         "discountedprice":26742,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT00602-RGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT00602-RGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/T/JT00602-RGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :52,
-         "title":"Infinity Love Adjustable Gold Bracelet",
-         "description":"Set in 14 KT Yellow Gold(1.230 g)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":7689,
-         "discountedprice":7226,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00684-1Y0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00684-1Y0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/T/UT00684-1Y0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :53,
-         "title":"Akira Diamond Mangalsutra Bracelet",
-         "description":"Set in 18 KT Rose Gold(2.060 g) with diamonds (0.081 ct ,IJ-SI)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":22762,
-         "discountedprice":22304,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT00581-RGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT00581-RGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/T/JT00581-RGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :54,
-         "title":"Aisha Cutout Charm Pearl Bracelet",
-         "description":"Set in 18 KT Yellow Gold(1.950 g)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":14102,
-         "discountedprice":13762,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00650-YG00P0_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00650-YG00P0_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/T/UT00650-YG00P0_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :55,
-         "title":"Kyra Radiant Gemstone Bracelets",
-         "description":"Set in 14 KT Yellow Gold(2.230 g) with diamonds (0.087 ct ,IJ-SI)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":24205,
-         "discountedprice":21785,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01746-1YP9CI_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01746-1YP9CI_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/T/JT01746-1YP9CI_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :56,
-         "title":"Classic Heart Gemstone Bracelet",
-         "description":"Set in 14 KT Yellow Gold(0.970 g)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":8785,
-         "discountedprice":7755,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00553-1Y00T0_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00553-1Y00T0_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/T/UT00553-1Y00T0_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :57,
-         "title":"Sleek Diamond Adjustable Bracelet",
-         "description":"Set in 14 KT Yellow Gold(2.210 g) with diamonds (0.040 ct ,IJ-SI)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":16506,
-         "discountedprice":14856,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT00991-1YP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT00991-1YP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/T/JT00991-1YP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :58,
-         "title":"Minimalistic Love Gold Bracelet",
-         "description":"Set in 14 KT Yellow Gold(1.240 g)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":9272,
-         "discountedprice":8345,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00606-1Y0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00606-1Y0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/T/UT00606-1Y0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :59,
-         "title":"Om Baby Nazaria Gold Bracelet Set of 2",
-         "description":"Set in 18 KT Yellow Gold(2.280 g)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":15266,
-         "discountedprice":14616,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00816-YG0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00816-YG0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/T/UT00816-YG0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :60,
-         "title":"First Steps Baby Nazaria Gold Bracelet",
-         "description":"Set in 18 KT Yellow Gold(1.160 g)",
-         "category":"Bracelets",
-         "weight":"8.680g",
-         "price":9991,
-         "discountedprice":9105,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00522-YG0000_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00522-YG0000_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/U/T/UT00522-YG0000_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :61,
-         "title":"Anesa Diamond Mangalsutra",
-         "description":"Set in 14 KT Yellow Gold(4.280 g) with diamonds (0.342 ct ,IJ-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":62008,
-         "discountedprice":56196,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01068-1YP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01068-1YP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS01068-1YP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :62,
-         "title":"Lavanya Diamond Mangalsutra",
-         "description":"Set in 18 KT Yellow Gold(4.110 g) with diamonds (0.150 ct ,IJ-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":47051,
-         "discountedprice":46202,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00126-YGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00126-YGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS00126-YGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :63,
-         "title":"Olga Infinity Diamond Mangalsutra ",
-         "description":"Set in 14 KT Yellow Gold(3.260 g) with diamonds (0.090 ct ,GH-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":30138,
-         "discountedprice":29517,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01111-1YP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01111-1YP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS01111-1YP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :64,
-         "title":"Prakriti Diamond Mangalsutra",
-         "description":"Set in 18 KT Yellow Gold(3.300 g) with diamonds (0.132 ct ,IJ-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":38410,
-         "discountedprice":36914,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00352-YGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00352-YGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS00352-YGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :65,
-         "title":"Aahana Solitaire Mangalsutra",
-         "description":"Set in 18 KT Yellow Gold(3.800 g) with diamonds (0.267 ct ,IJ-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":57495,
-         "discountedprice":54368,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/S/SS00005-YGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/S/SS00005-YGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/S/S/SS00005-YGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :66,
-         "title":"Risa Gemstone Diamond Mangalsutra ",
-         "description":"Set in 14 KT Yellow Gold(2.980 g) with diamonds (0.139 ct ,IJ-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":33735,
-         "discountedprice":32160,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01081-1YP9P0_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01081-1YP9P0_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS01081-1YP9P0_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :67,
-         "title":"Shreya Miracle Plate Diamond Mangalsutra",
-         "description":"Set in 18 KT Yellow Gold(3.920 g) with diamonds (0.157 ct ,GH-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":47914,
-         "discountedprice":46830,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00598-YGP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00598-YGP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS00598-YGP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :68,
-         "title":"Emer Diamond Mangalsutra",
-         "description":"Set in 14 KT Yellow Gold(3.560 g) with diamonds (0.160 ct ,IJ-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":37107,
-         "discountedprice":35294,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01049-1YP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01049-1YP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS01049-1YP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :69,
-         "title":"Urmi Coin Diamond Mangalsutra",
-         "description":"Set in 18 KT Yellow Gold(3.210 g) with diamonds (0.113 ct ,GH-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":36113,
-         "discountedprice":34553,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00508-YGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00508-YGP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00508-YGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00508-YGP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS00508-YGP900_16_video.mp4",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS00508-YGP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :70,
-         "title":"Thea Diamond Mangalsutra ",
-         "description":"Set in 14 KT Yellow Gold(2.810 g) with diamonds (0.164 ct ,IJ-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":33851,
-         "discountedprice":31993,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01082-1YP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01082-1YP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS01082-1YP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :71,
-         "title":"Saisha Diamond Mangalsutra",
-         "description":"Set in 18 KT Rose Gold(4.340 g) with diamonds (0.101 ct ,IJ-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":44076,
-         "discountedprice":42360,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00289-RGP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00289-RGP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS00289-RGP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :72,
-         "title":"Shiza Diamond Mangalsutra",
-         "description":"Set in 14 KT Yellow Gold(3.600 g) with diamonds (0.248 ct ,IJ-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":46179,
-         "discountedprice":43369,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00962-1YP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00962-1YP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS00962-1YP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :73,
-         "title":"Avika Diamond Mangalsutra",
-         "description":"Set in 14 KT Yellow Gold(3.200 g) with diamonds (0.130 ct ,GH-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":35002,
-         "discountedprice":33208,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00587-1YP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00587-1YP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS00587-1YP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :74,
-         "title":"Larissa Diamond Mangalsutra",
-         "description":"Set in 14 KT Yellow Gold(4.170 g) with diamonds (0.250 ct ,IJ-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":50986,
-         "discountedprice":48154,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01047-1YP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01047-1YP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS01047-1YP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :75,
-         "title":"Sanya Diamond Mangalsutra",
-         "description":"Set in 18 KT Yellow Gold(3.290 g) with diamonds (0.060 ct ,GH-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":33696,
-         "discountedprice":33282,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00354-YGP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00354-YGP600_12_listhover.jpg"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :76,
-         "title":"Mireya Diamond Mangalsutra",
-         "description":"Set in 14 KT Yellow Gold(2.900 g) with diamonds (0.127 ct ,IJ-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":30149,
-         "discountedprice":28641,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01085-1YP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01085-1YP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS01085-1YP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :77,
-         "title":"Manorama Diamond Mangalsutra",
-         "description":"Set in 14 KT Yellow Gold(3.170 g) with diamonds (0.192 ct ,GH-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":44491,
-         "discountedprice":41830,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00820-1YP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00820-1YP600_12_listhover.jpg"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :78,
-         "title":"Aasira Diamond Mangalsutra",
-         "description":"Set in 14 KT Yellow Gold(3.770 g) with diamonds (0.205 ct ,GH-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":48394,
-         "discountedprice":44149,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00960-1YP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00960-1YP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS00960-1YP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :79,
-         "title":"Advika Miracle Plate Diamond Mangalsutra",
-         "description":"Set in 18 KT Yellow Gold(3.970 g) with diamonds (0.224 ct ,GH-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":58824,
-         "discountedprice":55732,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00111-YGP600_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00111-YGP600_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS00111-YGP600_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      },
-      {"id" :80,
-         "title":"Panya Diamond Mangalsutra",
-         "description":"Set in 14 KT Yellow Gold(3.120 g) with diamonds (0.144 ct ,IJ-SI)",
-         "category":"Mangalsutra",
-         "weight":"8.680g",
-         "price":33270,
-         "discountedprice":31639,
-         "img":[
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01084-1YP900_11_listfront.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01084-1YP900_12_listhover.jpg",
-            "https://cdn.caratlane.com/media/catalog/product/J/S/JS01084-1YP900_16_video.mp4"
-         ],
-         "brand":"DazzleLane"
-      }
-   ]
+  "products": [
+    {
+      "id": 1,
+      "title": "Iona Halo Solitaire Ring",
+      "description": "Set in 18 KT White Gold(3.680 g) with diamonds (1.120 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 289768,
+      "discountedprice": 263482,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02162-WGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02162-WGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/S/R/SR02162-WGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 2,
+      "title": "Intertwined Glim Diamond Ring",
+      "description": "Set in 18 KT Yellow Gold(1.880 g) with diamonds (0.070 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 21065,
+      "discountedprice": 20668,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03769-YGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03769-YGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/R/JR03769-YGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 3,
+      "title": "Blossom Diamond Ring",
+      "description": "Set in 18 KT Yellow Gold(2.130 g) with diamonds (0.114 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 27396,
+      "discountedprice": 26026,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR00422-YGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR00422-YGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/R/JR00422-YGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 4,
+      "title": "Abru Diamond Ring",
+      "description": "Set in 14 KT White & Rose Gold(3.840 g) with diamonds (0.301 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 55762,
+      "discountedprice": 50647,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05951-1PP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05951-1PP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/R/JR05951-1PP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 5,
+      "title": "Triune Sparkle Diamond Ring",
+      "description": "Set in 14 KT Rose Gold(1.550 g) with diamonds (0.040 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 13419,
+      "discountedprice": 12077,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05980-1RP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05980-1RP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/R/JR05980-1RP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 6,
+      "title": "Duo Flare Diamond Ring",
+      "description": "Set in 14 KT Yellow Gold(1.120 g) with diamonds (0.128 ct ,GH-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 24951,
+      "discountedprice": 22456,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05615-1YP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05615-1YP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/R/JR05615-1YP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 7,
+      "title": "Emily Halo Diamond Ring",
+      "description": "Set in 18 KT White Gold(2.800 g) with diamonds (0.291 ct ,GH-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 59198,
+      "discountedprice": 55182,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03355-WGP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03355-WGP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/R/JR03355-WGP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 8,
+      "title": "Interwind Shimmer Diamond Ring",
+      "description": "Set in 18 KT Yellow Gold(1.620 g) with diamonds (0.095 ct ,GH-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 24999,
+      "discountedprice": 22499,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03768-YGP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03768-YGP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/R/JR03768-YGP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 9,
+      "title": "Daze Solitaire Ring",
+      "description": "Set in 18 KT White Gold(3.670 g) with diamonds (0.960 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 183190,
+      "discountedprice": 167214,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02838-WGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02838-WGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/S/R/SR02838-WGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 10,
+      "title": "Carson Diamond Ring for Men",
+      "description": "Set in 18 KT White Gold(7.000 g) with diamonds (0.330 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 86417,
+      "discountedprice": 84548,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR00872-WGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR00872-WGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/R/JR00872-WGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 11,
+      "title": "Lambent Solitaire Ring",
+      "description": "Set in 18 KT White Gold(2.570 g) with diamonds (0.250 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 50402,
+      "discountedprice": 47003,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02837-WGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02837-WGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/S/R/SR02837-WGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 12,
+      "title": "Mesh Cluster Diamond Ring",
+      "description": "Set in 14 KT Yellow Gold(1.990 g) with diamonds (0.091 ct ,GH-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 23854,
+      "discountedprice": 22661,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05874-1YP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05874-1YP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/R/JR05874-1YP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 13,
+      "title": "Samuel Diamond Ring For Men",
+      "description": "Set in 18 KT Yellow Gold(6.920 g) with diamonds (0.250 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 78931,
+      "discountedprice": 77515,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03692-YGP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR03692-YGP600_12_listhover.jpg"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 14,
+      "title": "Modus Solitaire Ring for Men",
+      "description": "Set in 18 KT White Gold(7.150 g) with diamonds (0.500 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 156977,
+      "discountedprice": 151595,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR00130-WGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR00130-WGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/S/R/SR00130-WGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 15,
+      "title": "Victor Diamond Ring For Men",
+      "description": "Set in 18 KT White Gold(4.920 g) with diamonds (0.250 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 62785,
+      "discountedprice": 59952,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR04097-WGP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR04097-WGP600_12_listhover.jpg"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 16,
+      "title": "Braid Mesh Diamond Ring",
+      "description": "Set in 14 KT Yellow Gold(1.980 g) with diamonds (0.111 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 23689,
+      "discountedprice": 21320,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05353-1YP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR05353-1YP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/R/JR05353-1YP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 17,
+      "title": "Adorable Heart Diamond Ring",
+      "description": "Set in 14 KT Rose Gold(0.870 g) with diamonds (0.043 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 11216,
+      "discountedprice": 9534,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR06497-1RP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR06497-1RP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/R/JR06497-1RP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 18,
+      "title": "Ornate Diamond Band",
+      "description": "Set in 18 KT Yellow Gold(1.790 g) with diamonds (0.080 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 21766,
+      "discountedprice": 21313,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR04683-YGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR04683-YGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/R/JR04683-YGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 19,
+      "title": "Ella Classic Solitaire Ring",
+      "description": "Set in 18 KT Yellow Gold(3.220 g) with diamonds (0.810 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 166306,
+      "discountedprice": 152030,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02277-YGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/R/SR02277-YGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/S/R/SR02277-YGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 20,
+      "title": "Classic Geometric Diamond Band",
+      "description": "Set in 14 KT Rose Gold(0.920 g) with diamonds (0.030 ct ,IJ-SI)",
+      "category": "Rings",
+      "weight": "1.790g",
+      "price": 9930,
+      "discountedprice": 8441,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR06395-1RP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/R/JR06395-1RP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/R/JR06395-1RP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 21,
+      "title": "Marquise Gold Drop Earrings",
+      "description": "Set in 14 KT Yellow Gold(1.290 g)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 8533,
+      "discountedprice": 8162,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04647-1Y0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04647-1Y0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/E/UE04647-1Y0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 22,
+      "title": "Nolana Drop Gold Earrings",
+      "description": "Set in 18 KT Yellow Gold(2.380 g)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 15934,
+      "discountedprice": null,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE00010-YG0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE00010-YG0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/E/UE00010-YG0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 23,
+      "title": "Northstar Diamond Stud Earrings",
+      "description": "Set in 18 KT Yellow Gold(0.970 g) with diamonds (0.086 ct ,GH-SI)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 20640,
+      "discountedprice": 19608,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04010-YGP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04010-YGP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/E/JE04010-YGP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 24,
+      "title": "Quad Geometric Diamond Stud Earrings",
+      "description": "Set in 14 KT Rose Gold(0.960 g) with diamonds (0.040 ct ,GH-SI)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 11892,
+      "discountedprice": 10108,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06187-1RP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06187-1RP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/E/JE06187-1RP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 25,
+      "title": "Lovely Blossom Kids' Gold Earrings",
+      "description": "Set in 14 KT Yellow Gold(1.170 g)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 8495,
+      "discountedprice": 7671,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04906-1Y0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04906-1Y0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/E/UE04906-1Y0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 26,
+      "title": "Ruhi Floret Gemstone Drop Earrings",
+      "description": "Set in 14 KT Rose Gold(2.260 g)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 13833,
+      "discountedprice": 12947,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04688-1R00RS_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04688-1R00RS_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/E/UE04688-1R00RS_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 27,
+      "title": "Geometric Gleam Diamond Stud Earrings",
+      "description": "Set in 14 KT Rose Gold(1.250 g) with diamonds (0.050 ct ,IJ-SI)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 13121,
+      "discountedprice": 11153,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06196-1RP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06196-1RP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/E/JE06196-1RP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 28,
+      "title": "Pink Strawberry Kids' Stud Gold Earrings",
+      "description": "Set in 14 KT Yellow Gold(0.540 g)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 6448,
+      "discountedprice": 5784,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04660-1Y0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE04660-1Y0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/E/UE04660-1Y0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 29,
+      "title": "Triad Sparkle Diamond Stud Earrings",
+      "description": "Set in 14 KT Yellow Gold(0.890 g) with diamonds (0.050 ct ,IJ-SI)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 11776,
+      "discountedprice": 10009,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06185-1YP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06185-1YP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/E/JE06185-1YP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 30,
+      "title": "Framed Leaf Gold Drop Earrings",
+      "description": "Set in 18 KT Yellow Gold(4.370 g)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 26129,
+      "discountedprice": null,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE00070-YG0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/E/UE00070-YG0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/E/UE00070-YG0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 31,
+      "title": "Amala Pearl Stud Earrings",
+      "description": "Set in 14 KT Rose Gold(2.680 g) with diamonds (0.240 ct ,IJ-SI)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 42600,
+      "discountedprice": 39881,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06765-1RP9P0_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06765-1RP9P0_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/E/JE06765-1RP9P0_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 32,
+      "title": "Linear Glint Diamond Drop Earrings",
+      "description": "Set in 14 KT Yellow Gold(1.880 g) with diamonds (0.102 ct ,IJ-SI)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 21986,
+      "discountedprice": 20887,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE05998-1YP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE05998-1YP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/E/JE05998-1YP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 33,
+      "title": "Little Love Kids' Diamond Earrings",
+      "description": "Set in 18 KT Yellow Gold(1.270 g) with diamonds (0.120 ct ,IJ-SI)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 23393,
+      "discountedprice": 21054,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04735-YGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04735-YGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/E/JE04735-YGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 34,
+      "title": "Zoey Entwine Diamond Drop Earrings",
+      "description": "Set in 14 KT Three Tone Gold(2.500 g) with diamonds (0.050 ct ,IJ-SI)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 21569,
+      "discountedprice": 21286,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE05668-1TP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE05668-1TP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/E/JE05668-1TP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 35,
+      "title": "Leafy Diamond Ear Cuffs",
+      "description": "Set in 14 KT Yellow Gold(1.060 g) with diamonds (0.041 ct ,IJ-SI)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 12009,
+      "discountedprice": 10207,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06717-1YP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06717-1YP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/E/JE06717-1YP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 36,
+      "title": "Hala Diamond Stud Earrings",
+      "description": "Set in 18 KT White Gold(2.620 g) with diamonds (0.195 ct ,GH-SI)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 44725,
+      "discountedprice": 42033,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE03274-WGP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE03274-WGP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/E/JE03274-WGP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 37,
+      "title": "Arbella Ornate Diamond Drop Earrings",
+      "description": "Set in 14 KT Yellow Gold(4.820 g) with diamonds (0.352 ct ,IJ-SI)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 67067,
+      "discountedprice": 61086,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06540-1YP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06540-1YP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/E/JE06540-1YP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 38,
+      "title": "Dome Mesh Diamond Stud Earrings",
+      "description": "Set in 18 KT Rose Gold(2.470 g) with diamonds (0.110 ct ,IJ-SI)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 28236,
+      "discountedprice": 27613,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04994-RGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04994-RGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/E/JE04994-RGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 39,
+      "title": "Oak Roots Diamond Stud Earrings",
+      "description": "Set in 18 KT Rose Gold(4.290 g) with diamonds (0.150 ct ,IJ-SI)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 49252,
+      "discountedprice": 48402,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04467-RGP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE04467-RGP600_12_listhover.jpg"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 40,
+      "title": "Glittering Heart Diamond Stud Earrings",
+      "description": "Set in 14 KT Rose Gold(1.330 g) with diamonds (0.046 ct ,GH-SI)",
+      "category": "Earrings",
+      "weight": "2.680g",
+      "price": 14413,
+      "discountedprice": 12972,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06653-1RP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/E/JE06653-1RP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/E/JE06653-1RP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 41,
+      "title": "Peppa Crown Personalised Kids' Gold Bracelet",
+      "description": "Set in 14 KT Yellow Gold(1.430 g)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 8849,
+      "discountedprice": 8324,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00998-1Y0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00998-1Y0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/T/UT00998-1Y0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 42,
+      "title": "Millie Bloom Gemstone Bracelets",
+      "description": "Set in 14 KT Yellow Gold(10.080 g) with diamonds (0.318 ct ,IJ-SI)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 102922,
+      "discountedprice": 97517,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01745-1YP9CI_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01745-1YP9CI_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/T/JT01745-1YP9CI_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 43,
+      "title": "First Steps Baby Nazaria Gold Bracelet Set of 2",
+      "description": "Set in 18 KT Yellow Gold(2.460 g)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 15963,
+      "discountedprice": null,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00812-YG0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00812-YG0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/T/UT00812-YG0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 44,
+      "title": "Asaira Gemstone Bracelet",
+      "description": "Set in 14 KT Rose Gold(2.450 g) with diamonds (0.206 ct ,IJ-SI)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 36681,
+      "discountedprice": 34347,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01655-1RP9OO_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01655-1RP9OO_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/T/JT01655-1RP9OO_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 45,
+      "title": "Mibella Diamond Bracelet",
+      "description": "Set in 14 KT Rose Gold(2.580 g) with diamonds (0.136 ct ,IJ-SI)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 30226,
+      "discountedprice": 27203,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01729-1RP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01729-1RP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/T/JT01729-1RP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 46,
+      "title": "Ornate Om Baby Nazaria Gold Bracelet",
+      "description": "Set in 18 KT Yellow Gold(1.190 g)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 9104,
+      "discountedprice": 8594,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00168-YG0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00168-YG0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/T/UT00168-YG0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 47,
+      "title": "Personalized Baby Nazaria Gold Bracelet",
+      "description": "Set in 18 KT Yellow Gold(1.720 g)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 12882,
+      "discountedprice": 11955,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00525-YG0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00525-YG0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/T/UT00525-YG0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 48,
+      "title": "Maria Shining Gemstone Bracelets",
+      "description": "Set in 14 KT Yellow Gold(2.420 g) with diamonds (0.105 ct ,IJ-SI)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 26597,
+      "discountedprice": 23937,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01747-1YP9CI_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01747-1YP9CI_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/T/JT01747-1YP9CI_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 49,
+      "title": "Forever Love Personalised Gold Bracelet",
+      "description": "Set in 14 KT Yellow Gold(1.430 g)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 9983,
+      "discountedprice": 9056,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00874-1Y0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00874-1Y0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/T/UT00874-1Y0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 50,
+      "title": "Adorned Personalised Gold Bracelet",
+      "description": "Set in 14 KT Rose Gold(1.140 g)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 8383,
+      "discountedprice": 7147,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00736-1R0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00736-1R0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/T/UT00736-1R0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 51,
+      "title": "Leaves Charm Diamond Bracelet",
+      "description": "Set in 18 KT Rose Gold(2.520 g) with diamonds (0.070 ct ,IJ-SI)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 27138,
+      "discountedprice": 26742,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT00602-RGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT00602-RGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/T/JT00602-RGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 52,
+      "title": "Infinity Love Adjustable Gold Bracelet",
+      "description": "Set in 14 KT Yellow Gold(1.230 g)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 7689,
+      "discountedprice": 7226,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00684-1Y0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00684-1Y0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/T/UT00684-1Y0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 53,
+      "title": "Akira Diamond Mangalsutra Bracelet",
+      "description": "Set in 18 KT Rose Gold(2.060 g) with diamonds (0.081 ct ,IJ-SI)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 22762,
+      "discountedprice": 22304,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT00581-RGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT00581-RGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/T/JT00581-RGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 54,
+      "title": "Aisha Cutout Charm Pearl Bracelet",
+      "description": "Set in 18 KT Yellow Gold(1.950 g)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 14102,
+      "discountedprice": 13762,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00650-YG00P0_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00650-YG00P0_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/T/UT00650-YG00P0_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 55,
+      "title": "Kyra Radiant Gemstone Bracelets",
+      "description": "Set in 14 KT Yellow Gold(2.230 g) with diamonds (0.087 ct ,IJ-SI)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 24205,
+      "discountedprice": 21785,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01746-1YP9CI_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT01746-1YP9CI_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/T/JT01746-1YP9CI_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 56,
+      "title": "Classic Heart Gemstone Bracelet",
+      "description": "Set in 14 KT Yellow Gold(0.970 g)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 8785,
+      "discountedprice": 7755,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00553-1Y00T0_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00553-1Y00T0_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/T/UT00553-1Y00T0_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 57,
+      "title": "Sleek Diamond Adjustable Bracelet",
+      "description": "Set in 14 KT Yellow Gold(2.210 g) with diamonds (0.040 ct ,IJ-SI)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 16506,
+      "discountedprice": 14856,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT00991-1YP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/T/JT00991-1YP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/T/JT00991-1YP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 58,
+      "title": "Minimalistic Love Gold Bracelet",
+      "description": "Set in 14 KT Yellow Gold(1.240 g)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 9272,
+      "discountedprice": 8345,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00606-1Y0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00606-1Y0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/T/UT00606-1Y0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 59,
+      "title": "Om Baby Nazaria Gold Bracelet Set of 2",
+      "description": "Set in 18 KT Yellow Gold(2.280 g)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 15266,
+      "discountedprice": 14616,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00816-YG0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00816-YG0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/T/UT00816-YG0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 60,
+      "title": "First Steps Baby Nazaria Gold Bracelet",
+      "description": "Set in 18 KT Yellow Gold(1.160 g)",
+      "category": "Bracelets",
+      "weight": "8.680g",
+      "price": 9991,
+      "discountedprice": 9105,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00522-YG0000_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/U/T/UT00522-YG0000_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/U/T/UT00522-YG0000_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 61,
+      "title": "Anesa Diamond Mangalsutra",
+      "description": "Set in 14 KT Yellow Gold(4.280 g) with diamonds (0.342 ct ,IJ-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 62008,
+      "discountedprice": 56196,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01068-1YP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01068-1YP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS01068-1YP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 62,
+      "title": "Lavanya Diamond Mangalsutra",
+      "description": "Set in 18 KT Yellow Gold(4.110 g) with diamonds (0.150 ct ,IJ-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 47051,
+      "discountedprice": 46202,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00126-YGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00126-YGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS00126-YGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 63,
+      "title": "Olga Infinity Diamond Mangalsutra ",
+      "description": "Set in 14 KT Yellow Gold(3.260 g) with diamonds (0.090 ct ,GH-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 30138,
+      "discountedprice": 29517,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01111-1YP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01111-1YP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS01111-1YP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 64,
+      "title": "Prakriti Diamond Mangalsutra",
+      "description": "Set in 18 KT Yellow Gold(3.300 g) with diamonds (0.132 ct ,IJ-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 38410,
+      "discountedprice": 36914,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00352-YGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00352-YGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS00352-YGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 65,
+      "title": "Aahana Solitaire Mangalsutra",
+      "description": "Set in 18 KT Yellow Gold(3.800 g) with diamonds (0.267 ct ,IJ-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 57495,
+      "discountedprice": 54368,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/S/SS00005-YGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/S/S/SS00005-YGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/S/S/SS00005-YGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 66,
+      "title": "Risa Gemstone Diamond Mangalsutra ",
+      "description": "Set in 14 KT Yellow Gold(2.980 g) with diamonds (0.139 ct ,IJ-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 33735,
+      "discountedprice": 32160,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01081-1YP9P0_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01081-1YP9P0_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS01081-1YP9P0_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 67,
+      "title": "Shreya Miracle Plate Diamond Mangalsutra",
+      "description": "Set in 18 KT Yellow Gold(3.920 g) with diamonds (0.157 ct ,GH-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 47914,
+      "discountedprice": 46830,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00598-YGP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00598-YGP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS00598-YGP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 68,
+      "title": "Emer Diamond Mangalsutra",
+      "description": "Set in 14 KT Yellow Gold(3.560 g) with diamonds (0.160 ct ,IJ-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 37107,
+      "discountedprice": 35294,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01049-1YP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01049-1YP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS01049-1YP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 69,
+      "title": "Urmi Coin Diamond Mangalsutra",
+      "description": "Set in 18 KT Yellow Gold(3.210 g) with diamonds (0.113 ct ,GH-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 36113,
+      "discountedprice": 34553,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00508-YGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00508-YGP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00508-YGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00508-YGP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS00508-YGP900_16_video.mp4",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS00508-YGP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 70,
+      "title": "Thea Diamond Mangalsutra ",
+      "description": "Set in 14 KT Yellow Gold(2.810 g) with diamonds (0.164 ct ,IJ-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 33851,
+      "discountedprice": 31993,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01082-1YP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01082-1YP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS01082-1YP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 71,
+      "title": "Saisha Diamond Mangalsutra",
+      "description": "Set in 18 KT Rose Gold(4.340 g) with diamonds (0.101 ct ,IJ-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 44076,
+      "discountedprice": 42360,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00289-RGP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00289-RGP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS00289-RGP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 72,
+      "title": "Shiza Diamond Mangalsutra",
+      "description": "Set in 14 KT Yellow Gold(3.600 g) with diamonds (0.248 ct ,IJ-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 46179,
+      "discountedprice": 43369,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00962-1YP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00962-1YP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS00962-1YP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 73,
+      "title": "Avika Diamond Mangalsutra",
+      "description": "Set in 14 KT Yellow Gold(3.200 g) with diamonds (0.130 ct ,GH-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 35002,
+      "discountedprice": 33208,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00587-1YP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00587-1YP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS00587-1YP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 74,
+      "title": "Larissa Diamond Mangalsutra",
+      "description": "Set in 14 KT Yellow Gold(4.170 g) with diamonds (0.250 ct ,IJ-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 50986,
+      "discountedprice": 48154,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01047-1YP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01047-1YP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS01047-1YP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 75,
+      "title": "Sanya Diamond Mangalsutra",
+      "description": "Set in 18 KT Yellow Gold(3.290 g) with diamonds (0.060 ct ,GH-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 33696,
+      "discountedprice": 33282,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00354-YGP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00354-YGP600_12_listhover.jpg"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 76,
+      "title": "Mireya Diamond Mangalsutra",
+      "description": "Set in 14 KT Yellow Gold(2.900 g) with diamonds (0.127 ct ,IJ-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 30149,
+      "discountedprice": 28641,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01085-1YP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01085-1YP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS01085-1YP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 77,
+      "title": "Manorama Diamond Mangalsutra",
+      "description": "Set in 14 KT Yellow Gold(3.170 g) with diamonds (0.192 ct ,GH-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 44491,
+      "discountedprice": 41830,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00820-1YP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00820-1YP600_12_listhover.jpg"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 78,
+      "title": "Aasira Diamond Mangalsutra",
+      "description": "Set in 14 KT Yellow Gold(3.770 g) with diamonds (0.205 ct ,GH-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 48394,
+      "discountedprice": 44149,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00960-1YP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00960-1YP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS00960-1YP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 79,
+      "title": "Advika Miracle Plate Diamond Mangalsutra",
+      "description": "Set in 18 KT Yellow Gold(3.970 g) with diamonds (0.224 ct ,GH-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 58824,
+      "discountedprice": 55732,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00111-YGP600_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS00111-YGP600_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS00111-YGP600_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    },
+    {
+      "id": 80,
+      "title": "Panya Diamond Mangalsutra",
+      "description": "Set in 14 KT Yellow Gold(3.120 g) with diamonds (0.144 ct ,IJ-SI)",
+      "category": "Mangalsutra",
+      "weight": "8.680g",
+      "price": 33270,
+      "discountedprice": 31639,
+      "img": [
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01084-1YP900_11_listfront.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/cache/6/image/480x480/9df78eab33525d08d6e5fb8d27136e95/J/S/JS01084-1YP900_12_listhover.jpg",
+        "https://cdn.caratlane.com/media/catalog/product/J/S/JS01084-1YP900_16_video.mp4"
+      ],
+      "brand": "DazzleLane"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Chandrakala",
+      "lastName": "Masiwal",
+      "email": "chandrakala@gmail.com",
+      "password": "12345"
+    },
+    {
+      "firstName": "Jai",
+      "lastName": "Sharma",
+      "email": "jai.sharma639@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "firstName": "Chandrakala",
+      "lastName": "Masiwal",
+      "email": "chandrakala.d2508@gmail.com",
+      "password": "1234567",
+      "id": 3
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "firstName": "Jai",
+      "lastName": "Sharma",
+      "email": "golu@hotmail.com",
+      "password": "123",
+      "id": 5
+    }
+  ],
+  "orders": [],
+  "login": [
+    {
+      "id": 1
+    }
+  ]
 }
