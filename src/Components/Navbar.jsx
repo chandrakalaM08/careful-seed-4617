@@ -2,14 +2,12 @@ import React from "react";
 import "./NavbarStyle.css";
 import Dazzlelane_Logo from "../Assets/Dazzlelane_Logo.jpg"
 import { Link, NavLink } from "react-router-dom";
+
 import { FaSearch,FaUser} from "react-icons/fa";
 import {
   Menu,
-  MenuButton,
   MenuList,
   MenuItem,
-  Button,
-  Icon
 } from "@chakra-ui/react";
 import { GiHamburgerMenu } from "react-icons/gi";
 
@@ -28,12 +26,27 @@ import { useState } from "react";
 import { MdLocationOn } from "react-icons/md";
 import { AiFillHeart } from "react-icons/ai";
 import { AiOutlineShoppingCart } from "react-icons/ai";
-import {BsChevronDown} from "react-icons/bs"
-import {HiUser} from "react-icons/hi2"
+
+import { HiUser } from "react-icons/hi2"
+ 
+import { async } from "q";
+
 
 export default function Navbar (){
   const [showMediaIcons, setShowMediaIcons] = useState(false);
-  const [ signout, setSignOut] = useState(true)
+  const [signout, setSignOut] = useState(true)
+  const [query, setQuery] = useState('');
+ 
+
+ async function handleSearch(event) {
+    event.preventDefault();
+    // Perform the search
+    // (Replace this with your own search functionality)
+    const response = await fetch(`http://localhost:3000/products=${query}`);
+    const data = await response.json();
+    // Pass the search results as a query parameter to the products page
+
+  }
 
  const handleClick = () =>{
   localStorage.removeItem('token');
@@ -109,7 +122,7 @@ export default function Navbar (){
               </NavLink>
             </li>
             <li style={{ fontSize: "12px" }} className="input">
-              <form>
+              <form onSubmit={handleSearch}>
                 <input
                   style={{
                     borderRadius: "5px 0px 0px 5px",
@@ -119,6 +132,8 @@ export default function Navbar (){
                   }}
                   type="text"
                   placeholder="Search..."
+                  value={query}
+                  onChange={(event) => setQuery(event.target.value)}
                 />
                 <button
                   style={{
@@ -186,19 +201,19 @@ export default function Navbar (){
             <Link to="/product">NEW ARRIVALS</Link>
           </li>
           <li>
-            <Link to="/product">RINGS</Link>
+            <Link to="/product?category=Rings">RINGS</Link>
           </li>
           <li>
-            <Link to="/product">EARRINGS</Link>
+            <Link to="/product?category=Earrings">EARRINGS</Link>
           </li>
           <li>
-            <Link to="/product">BRACELETS & BANGLES</Link>
+            <Link to="/product?category=Bracelets" >BRACELETS & BANGLES</Link>
           </li>
           <li>
             <Link to="/product">SOLITARIES</Link>
           </li>
           <li>
-            <Link to="/product">MANGALSUTRA</Link>
+            <Link to="/product?category=Mangalsutra">MANGALSUTRA</Link>
           </li>
           <li>
             <Link to="/">READY TO SHIP</Link>

@@ -4,34 +4,53 @@ import Footer from "../Components/Footer";
 import Navbar from "../Components/Navbar";
 import styles from "../Style/Cart.module.css";
 import { FaLock } from "react-icons/fa";
+import { set } from "lodash";
 
 const CartPage = () => {
   const [cartItems, setCartItems] = useState([]);
-  const [quantity, setQuantity] = useState(1);
-  const [id,setId] = useState(0)
-  let incrementQuantity = () => {
-    console.log("increase",quantity)
-    setQuantity(quantity + 1)
-    
-};
-  let decrementQuantity = () => {
-    console.log("decrease",quantity)
-    setQuantity(quantity - 1)
+  const [id, setId] = useState(0)
+
+  let orderDataNew = JSON.parse(localStorage.getItem("cartItems")) || [];
+
+  let quantityObj = {}
+  orderDataNew.forEach((element) => {
+    let key = element.id;
+     quantityObj[key] = element.quantity;
+  })
+ 
+ const [quantity, setQuantity] = useState(quantityObj);
+  
+  let incrementQuantity = (event) => {
+    let id = event.currentTarget.id;
+    let updatedQuantity = {};
+    updatedQuantity[id] = quantity[id] + 1;
+    setQuantity({...quantity, ...updatedQuantity}
+    )
    
-};
+  };
+  
+  let decrementQuantity = (event) => {
+    let id = event.currentTarget.id;
+    if (quantity[id] <= 1) { 
+      return;
+    }
+    let updatedQuantity = {};
+    updatedQuantity[id] = quantity[id] - 1;
+    setQuantity({...quantity, ...updatedQuantity}
+    )
+  };
+  
+  const updatePaymentInfo = () => {
+    localStorage.setItem("total_bill", JSON.stringify(total))
+  }
 
-useEffect((id,quantity)=>{
-
-        let orderDataNew = JSON.parse(localStorage.getItem("cart")) || [];
-    
-        orderDataNew.forEach((element, index) => {
-          if (element.id === id) {
-            element.quantity = quantity;
-            
-          }
+useEffect(()=>{
+   let updatedData = orderDataNew.map((element, index) => {
+     element.quantity = quantity[element.id];
+     return element;
         });
-        localStorage.setItem("cart", JSON.stringify(orderDataNew));
-        //totalBill(orderDataNew)
+        localStorage.setItem("cartItems", JSON.stringify(updatedData));
+        
 },[quantity]);
 
 
@@ -50,7 +69,6 @@ useEffect((id,quantity)=>{
   };
   const total = cartItems.reduce((acc, item) => acc + (item.quantity*item.discountedprice), 0)
   const totalmain = cartItems.reduce((acc, item) => acc + (item.quantity*item.price), 0)
-
   const Tsave= totalmain-total
 
  
@@ -78,9 +96,9 @@ useEffect((id,quantity)=>{
               <h5>Weight: {item.weight}</h5>
               <br />
             <p style={{color:'#E257E5',fontSize:"14px", textDecoration: "underline"}}>Check Delivery Date</p>
-              <p style={{fontWeight:'bold'}}>₹ {item.discountedprice}</p>
-              <p style={{textDecoration:'line-through',fontSize:"12px"}}>₹ {item.price}</p>
-              <p style={{color :'rgb(235, 79, 92)',fontWeight:'bold'}}>Save ₹{item.price - item.discountedprice}</p>
+              <p style={{fontWeight:'bold'}}>₹ {item.discountedprice*item.quantity}</p>
+              <p style={{textDecoration:'line-through',fontSize:"12px"}}>₹ {item.price*item.quantity}</p>
+              <p style={{color :'rgb(235, 79, 92)',fontWeight:'bold'}}>Save ₹{(item.price*item.quantity )- (item.discountedprice*item.quantity)}</p>
               </div>
               <div style={{width:'25%'}}>
                 <div style={{marginTop:'100px'}}>
@@ -88,11 +106,10 @@ useEffect((id,quantity)=>{
                                 <div className="quantity-change"><div className="identity" style={{display:"none"}}>${
                                   item.id
                                 }</div>
-                                    <div className="decrease" onClick={()=>{
-                                            decrementQuantity();
-                                             setId(item.id)}}> <img src="https://pizzaonline.dominos.co.in/static/assets/icons/minus.svg" alt=""/></div>
+                                    <div className="decrease" id={item.id} onClick={
+decrementQuantity}> <img src="https://pizzaonline.dominos.co.in/static/assets/icons/minus.svg" alt=""/></div>
                                     |<div className="count">{item.quantity}</div> |
-                                    <div className="increase" onClick={incrementQuantity}><img src="https://pizzaonline.dominos.co.in/static/assets/icons/plus.svg" alt=""/></div>
+                                    <div className="increase" id={item.id} onClick={incrementQuantity}><img src="https://pizzaonline.dominos.co.in/static/assets/icons/plus.svg" alt=""/></div>
                                 </div>
                                 </div>
                         
@@ -128,7 +145,7 @@ useEffect((id,quantity)=>{
   <p className={styles["total-cost"]}>TOTAL COST :&emsp;&emsp;&emsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;₹{total}</p>
 </div>
 
-<Link to={'/payment'}><button style={{marginTop:'13px',color:'white',border:"1px solid purple",backgroundColor:"#C05CED", width:"330px",borderRadius:'5px', padding:'10px',fontWeight:"bold",borderStyle:"none"}}><FaLock/> Checkout Securely</button></Link>         </div>
+<Link to={'/payment'}><button onClick={updatePaymentInfo} style={{marginTop:'13px',color:'white',border:"1px solid purple",backgroundColor:"#C05CED", width:"330px",borderRadius:'5px', padding:'10px',fontWeight:"bold",borderStyle:"none"}}><FaLock/> Checkout Securely</button></Link>         </div>
 
         </div>
         

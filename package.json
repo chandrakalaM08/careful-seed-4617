@@ -2,8 +2,11 @@
   "name": "careful-seed-4617",
   "version": "0.1.0",
   "private": true,
+  "homepage":".",
+  
   "dependencies": {
-    "@chakra-ui/react": "^2.5.4",
+    "@chakra-ui/icons": "^2.0.18",
+    "@chakra-ui/react": "^2.5.5",
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
@@ -24,6 +27,7 @@
     "swiper": "^9.1.1",
     "web-vitals": "^2.1.4"
   },
+
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

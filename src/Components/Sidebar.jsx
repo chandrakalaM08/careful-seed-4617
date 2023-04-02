@@ -2,8 +2,7 @@ import React, { useState } from 'react';
 
 
 // Define SideBar component
-export const Sidebar = () => {
-
+export const Sidebar = ({setSelectedCategory, setSelectedSort, setSelectedPrice}) => {
 
   // Define styles for different parts of the sidebar
   const stylediv = {
@@ -33,6 +32,8 @@ export const Sidebar = () => {
     fontSize: '15px',
     fontWeight: 'bolder',
   };
+
+ 
 
   // Define state and handlers for price ranges checkboxes
   const [priceRanges, setPriceRanges] = useState([
@@ -73,6 +74,25 @@ export const Sidebar = () => {
   };
 
   
+  function onChangeValue(event) {
+  
+    console.log("inside onchangevalue", event.target.value);
+    setSelectedCategory(event.target.value)
+  }
+
+
+  function onChangeValueSort(event) {
+    console.log("inside onchangevalueSort", event.target.value);
+    setSelectedSort(event.target.value)
+  }
+
+  function priceFilterChange(event) {
+    // +arr[0].trim().slice(1,100).replace(',','')
+    console.log("inside pricefilter", event.target.value);
+    // let val = event.target.value
+    // let arr = val.split('-')
+    setSelectedPrice(event.target.value)
+  }
        
    return (
      <div style={{
@@ -86,29 +106,41 @@ export const Sidebar = () => {
         overflowX: "hidden",
         paddingTop: "20px"
      }}>
+       <div style={stylediv2}>
+         
+         <h3 style={textType}>Sort By</h3>
+         <div onChange={onChangeValueSort}>
+         <div><input type="radio" value="asc" name="sort"/> Low to High</div>
+         <div><input type="radio" value="desc" name="sort"/> High to Low</div>
+         </div>
+        </div>
+        <br />
         <div style={stylediv2}>
         <h3 style={textType}>Filter By</h3>
         </div>
         <br />
 
         <div style={stylediv}>
-      <h1 style={textType}>Price</h1>
+         <h1 style={textType}>Price</h1>
+         <div onChange={priceFilterChange}>
       {priceRanges.map((range, index) => (
         <div key={index}>
-          <input style={checkBox} type="checkbox" checked={range.checked} onChange={() => handleCheckboxChange(index)} />
+          <input style={checkBox} type="radio" name="button2" value={range.range} checked={range.checked} onChange={(e) => {
+            handleCheckboxChange(index)}} />
           {range.range}
         </div>
       ))}
+           </div>
     </div>
     
     <hr />
 
-    <div style={top}>
+    <div style={top} onChange={onChangeValue}>
       <h1 style={textType}>Product Type</h1>
 
       {categories.map((category, index) => (
         <div key={index}>
-          <input style={checkBox} type="checkbox" checked={category.checked} onChange={() => handleCheckbox(index)} />
+          <input style={checkBox} type="radio" name="button1" value={category.name} checked={category.checked} onChange={() => handleCheckbox(index)} />
           {category.name}
         </div>
       ))}

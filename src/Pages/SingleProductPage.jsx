@@ -10,6 +10,7 @@ import { FaVideo,FaHome } from 'react-icons/fa';
 const SingleProduct = () => {
   const { id } = useParams();
   const [product, setProduct] = useState([]);
+  const [quantity, setQuantity] = useState(1);
  
   // Fetch product data from server on component mount
   useEffect(() => {
@@ -25,12 +26,12 @@ const SingleProduct = () => {
   }, [id]);
     
   const handleAddToCart = () => {
-
+    setQuantity((prev)=> prev+1)
     let cartItems = [];
     if (localStorage.getItem('cartItems')) {
       cartItems = JSON.parse(localStorage.getItem('cartItems'));
     }
-    const selectedProduct = {weight:product.weight, id: product.id, img: product.img, price: product.price, title: product.title, discountedprice: product.discountedprice, quantity:product.quantity};
+    const selectedProduct = {weight:product.weight, id: product.id, img: product.img, price: product.price, title: product.title, discountedprice: product.discountedprice, quantity: 1};
     cartItems.push(selectedProduct);
 
     localStorage.setItem('cartItems', JSON.stringify(cartItems))   
